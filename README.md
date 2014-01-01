@@ -15,6 +15,14 @@ def y(x):
   return x * x
 ```
 
+```perl
+sub y() {
+  my ($x) = @_;
+  return $x * $x;
+}
+```
+
+
 This is a regular paragraph.
 
 <table>
