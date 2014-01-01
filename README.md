@@ -6,10 +6,11 @@ Mea Culpa!
 This brings me to an idea
 -------------------------
 
-$y=f(x)$
-
+```latex
+$$y=f(x)$$
 ```
-#!python
+
+```python
 def y(x):
   return x * x
 ```
